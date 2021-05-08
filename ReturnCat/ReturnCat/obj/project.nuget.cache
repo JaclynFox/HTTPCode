@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jt4+8BpTO/xlBAyAKS+C3ZrokoE0En96cQqJtJDOLEjwxYh3t6MlE95OVH3moKmjJOHurkLBEi5GTf/tRQmRUg==",
+  "success": true,
+  "projectFilePath": "E:\\Github\\ReturnCat\\ReturnCat\\ReturnCat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emmit\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "C:\\Users\\emmit\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\emmit\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "C:\\Users\\emmit\\.nuget\\packages\\awssdk.core\\3.7.0.18\\awssdk.core.3.7.0.18.nupkg.sha512",
+    "C:\\Users\\emmit\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.0.18\\awssdk.dynamodbv2.3.7.0.18.nupkg.sha512",
+    "C:\\Users\\emmit\\.nuget\\packages\\awssdk.s3\\3.7.0.19\\awssdk.s3.3.7.0.19.nupkg.sha512",
+    "C:\\Users\\emmit\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

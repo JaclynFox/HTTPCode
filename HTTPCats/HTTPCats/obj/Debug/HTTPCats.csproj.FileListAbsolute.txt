@@ -1,0 +1,13 @@
+E:\Github\HTTPCats\HTTPCats\bin\Debug\HTTPCats.exe.config
+E:\Github\HTTPCats\HTTPCats\bin\Debug\HTTPCats.exe
+E:\Github\HTTPCats\HTTPCats\bin\Debug\HTTPCats.pdb
+E:\Github\HTTPCats\HTTPCats\bin\Debug\Newtonsoft.Json.dll
+E:\Github\HTTPCats\HTTPCats\bin\Debug\Newtonsoft.Json.xml
+E:\Github\HTTPCats\HTTPCats\obj\Debug\HTTPCats.csprojAssemblyReference.cache
+E:\Github\HTTPCats\HTTPCats\obj\Debug\HTTPCats.Form1.resources
+E:\Github\HTTPCats\HTTPCats\obj\Debug\HTTPCats.Properties.Resources.resources
+E:\Github\HTTPCats\HTTPCats\obj\Debug\HTTPCats.csproj.GenerateResource.cache
+E:\Github\HTTPCats\HTTPCats\obj\Debug\HTTPCats.csproj.CoreCompileInputs.cache
+E:\Github\HTTPCats\HTTPCats\obj\Debug\HTTPCats.csproj.CopyComplete
+E:\Github\HTTPCats\HTTPCats\obj\Debug\HTTPCats.exe
+E:\Github\HTTPCats\HTTPCats\obj\Debug\HTTPCats.pdb
